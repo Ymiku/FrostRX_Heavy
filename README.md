@@ -1,4 +1,5 @@
 # FrostRX_Heavy
+使用object代替int保存rxid，无需再手动把rxid置-1
 用法：
 
 RXIndex rxId = new RXIndex();
